@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TortikiWS", "TortikiWS\TortikiWS.csproj", "{C2D17089-C04B-41A9-B6B1-27586711266B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2D17089-C04B-41A9-B6B1-27586711266B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D17089-C04B-41A9-B6B1-27586711266B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D17089-C04B-41A9-B6B1-27586711266B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D17089-C04B-41A9-B6B1-27586711266B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCA93241-B251-4D59-B426-F0CC673E1DC4}
+	EndGlobalSection
+EndGlobal
